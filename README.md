@@ -3,3 +3,10 @@
 This is a sample repo, hello world!
 
 This is the second change.
+
+# What you learnt
+
+Terminology
+
+- clone
+- repo = repository
